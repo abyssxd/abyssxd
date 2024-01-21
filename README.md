@@ -6,6 +6,7 @@ Currently studying the first year of baccalaureate at Institut Viladomat in Barc
 
 - Created several personal web applications using HTML, CSS, JS, PHP & MySQL.
 - Developed small Minecraft plugins using the Spigot API.
+- Setup & Configured various Minecraft Server networks using Spigot.
 - Worked on Arduino Projects at Institut Viladomat, currently working as a programmer for the CanSat 2024 competition with the Vila2Sat team.
 
 # Languages
