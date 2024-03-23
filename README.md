@@ -8,6 +8,7 @@ Currently studying the first year of baccalaureate at Institut Viladomat in Barc
 - Developed small Minecraft plugins using the Spigot API.
 - Setup & Configured various Cross Platform Minecraft Server networks using Spigot & GeyserMC.
 - Worked on Arduino Projects at Institut Viladomat, currently working as a programmer for the CanSat 2024 competition with the Vila2Sat team.
+- Working on an native Android application for my baccalaureate research project.
 
 # Languages
 - Java
