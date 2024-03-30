@@ -15,7 +15,7 @@ Currently studying the first year of baccalaureate at Institut Viladomat in Barc
 - MySQL
 - Python
 - PHP
-- Javascript
+- Javascript, ReactJS
 - HTML & CSS
 <!--
 **abyssxd/abyssxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
