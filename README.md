@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm a 18 year old with an intrest in Web, App & Game development. 
-Currently studying the first year of baccalaureate at Institut Viladomat in Barcelona.
+I'm a 19 year old with an intrest in Web, App & Game development. 
+Currently studying in Barcelona.
 
 ## Experience
 
