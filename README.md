@@ -2,21 +2,8 @@
 I'm a 19 year old with an intrest in Web, App & Game development. 
 Currently studying in Barcelona.
 
-## Experience
-
-- Created several personal web applications using HTML, CSS, JS, PHP & MySQL.
-- Developed small Minecraft plugins using the Spigot API.
-- Setup & Configured various Cross Platform Minecraft Server networks using Spigot & GeyserMC.
-- Worked on Arduino, ESP32 Projects and as a programmer for the CanSat 2024 competition with the Vila2Sat team at Institut Viladomat.
-- Working on an native Android application for my bachillerato research project.
-
-# Languages
-- Java
-- MySQL
-- Python
-- PHP
-- Javascript, ReactJS
-- HTML & CSS
+## Portfolio
+You can check more information about me and my projects [here](https://abishekbhusal.com)
 
 # Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abyssxd&show_icons=true&theme=radical)
